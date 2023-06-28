@@ -3,7 +3,6 @@ using Microsoft.Extensions.Configuration;
 using SalesSystem.Application.Context;
 using SalesSystem.Application.Interfaces;
 using SalesSystem.Core.Entities;
-using SalesSytem.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Data;

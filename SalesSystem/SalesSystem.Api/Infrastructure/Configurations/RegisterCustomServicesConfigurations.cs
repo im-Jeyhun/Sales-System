@@ -3,7 +3,6 @@ using SalesSystem.Application.Interfaces;
 using SalesSystem.Application.Services;
 using SalesSystem.Core.Entities;
 using SalesSystem.Services.Concretes;
-using SalesSytem.Data.Context;
 
 namespace SalesSystem.Api.Infrastructure.Configurations
 {
